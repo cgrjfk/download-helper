@@ -324,4 +324,3 @@ if __name__ == '__main__':
     window.show()
     sys.exit(app.exec_())
 
-# pyinstaller --noconfirm --windowed --onefile --icon=app.ico ZP.py
