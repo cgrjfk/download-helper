@@ -1,6 +1,4 @@
-当然可以，瑞瑞！以下是一个适合放在 GitHub 上的英文简介，清晰、专业地介绍了你的项目功能、技术栈和亮点设计：
 
----
 
 ## 🎬 YouTube HD Downloader (PyQt5 + yt-dlp)
 
