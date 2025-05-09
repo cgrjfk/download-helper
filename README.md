@@ -24,5 +24,9 @@ It features a sleek UI, real-time download logs, ffmpeg integration, and system 
 * qdarkstyle
 
 ### 📷 UI Preview
-![Uploading image.png…]()
+<img src="preview.png" alt="运行截图" style="border: 2px solid #ccc; border-radius: 10px; width: 600px; height: 400px;" />
+
+
+
+
 
