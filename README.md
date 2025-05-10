@@ -1,13 +1,13 @@
 
 
-## 🎬 YouTube HD Downloader (PyQt5 + yt-dlp)
+## 🎬 HD Downloader helper (PyQt5 + yt-dlp)
 
 A modern, high-quality YouTube video downloader built with **PyQt5** and powered by **yt-dlp**.
 It features a sleek UI, real-time download logs, ffmpeg integration, and system tray support.
 
 ### ✨ Features
 
-* 🔗 Download videos via direct YouTube links
+* 🔗 Download videos via direct YouTube facebook tiktok bilibili and other popular video website links
 * 📂 Customizable save directory
 * 📉 Real-time progress tracking with a visual progress bar
 * 📝 Download logs with status updates and error handling
